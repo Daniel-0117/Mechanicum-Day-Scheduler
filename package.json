@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "dayjs": "^1.11.8",
-    "node": "^20.2.0",
-    "node.js": "^0.0.1-security"
-  }
-}
