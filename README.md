@@ -6,7 +6,7 @@ Live deployed link: https://daniel-0117.github.io/Mechanicum-Day-Scheduler/
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
 
 ## Description
-This project is a note taker with that changes colors based on the current hour. The user can use this site to set reminders for appointments or tasks that need to be done. 
+This project is a note taker that changes colors based on the current hour. The user can use this site to set reminders for appointments or tasks that need to be done. 
 
 ## Usage
 Once the site is loaded the user can simply type his notes into which ever hour slot the task needs to be completed in. As the day goes on the current hour will update being a light blue. The future slots will remain a dark blue and hours past will turn a grey. The current date will also appear on the top of the webpage. 
